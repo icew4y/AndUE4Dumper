@@ -24,7 +24,7 @@ public:
 
     std::vector<std::string> GetAppIDs() const override
     {
-        return { "com.proximabeta.mf.uamo" };
+        return { "com.tencent.mf.uam" };
     }
 
     bool IsUsingFNamePool() const override
